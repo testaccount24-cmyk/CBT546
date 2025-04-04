@@ -1,0 +1,4 @@
+2025-04-04 11:32:36.545548 - Received CBT.V508.FILE546.PDS from FILE546.XMI 
+2025-04-04 11:32:36.546164 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE546.PDS, moved to PDS/$$$#DATE
+2025-04-04 11:32:36.546308 - Found @FILE546.txt (text/plain) in CBT.V508.FILE546.PDS, moved to PDS/@FILE546
+2025-04-04 11:32:36.546611 - Found PL360B01.pdf (application/pdf) in CBT.V508.FILE546.PDS, moved to docs/PL360B01.pdf
